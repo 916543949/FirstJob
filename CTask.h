@@ -7,7 +7,7 @@ class task
     ~task();
     
   pubilc:
-    plan();
-    goal();
+    Plan();
+    Goal();
 };
 #endif
